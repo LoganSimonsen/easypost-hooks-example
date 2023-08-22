@@ -1,0 +1,4 @@
+*
+!.gitignore
+
+//git ignore any files in this folder because we don't want to upload temporary logs to github.
